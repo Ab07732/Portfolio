@@ -1,0 +1,29 @@
+#body{
+	background-color: #4aaaa5; 
+	margin: 0;
+	padding: 0;	
+}
+#h1{
+	display: block;
+	color: #777777;
+	background-color: green;
+	border-color: #cccccc;
+	margin: 0;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+#head{
+	background-color: #ffffff;
+	border-color: #cccccc; 
+}
+
+#footerbottom{
+	width: 100%;
+	height:20px;
+	color: lightblue;
+	background-color: gray;
+}
+

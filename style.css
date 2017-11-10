@@ -1,0 +1,39 @@
+
+#big-box{
+	background: pink;
+	width: 960px;
+}
+
+#main-bio{
+	background: blue;
+	float:left;
+	width: 650px;
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+.name{
+	float: left;
+}
+nav{
+	float: none;
+}
+#connect{
+	background: blue;
+	float: left;
+	box-sizing: border-box;
+	width: 270px;
+}
+.mypic{
+	width: 400px;
+
+}
+article{
+	float: left;
+
+}
+.footerbottom{
+	background-color: lightblue;
+}
+#connect{
+	float: left;
+}
